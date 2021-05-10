@@ -131,7 +131,7 @@ def full_submission(cid, module_code, number_of_questions):
 
 
 if __name__ == "__main__":
-    description = """example usage: python3 covadd.py full 01701234 MATH50001 6.
+    description = """example usage: python3 covadd.py by_q 01701234 MATH50001 6.
 
 Ensure that you are in the same folder as covadd.py and that there are
 folders called Input and Output and a template file for the coversheet. 
